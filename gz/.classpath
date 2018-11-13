@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="lib" path="lib/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="F:/maven/local-repository/junit/junit/4.12/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/maven/local-repository/net/lingala/zip4j/zip4j/1.3.2/zip4j-1.3.2.jar"/>
+	<classpathentry kind="lib" path="F:/maven/local-repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/maven/local-repository/com/github/junrar/junrar/0.7/junrar-0.7.jar"/>
+	<classpathentry kind="lib" path="F:/maven/local-repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/maven/local-repository/org/apache/commons/commons-compress/1.14/commons-compress-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/maven/local-repository/org/apache/poi/poi/3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/maven/local-repository/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/maven/local-repository/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/maven/local-repository/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="F:/maven/local-repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="F:/maven/local-repository/log4j/log4j/1.2.12/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="F:/maven/local-repository/com/jhlabs/filters/2.0.235-1/filters-2.0.235-1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/my/jar/beautyeye-3.7/dist/beautyeye_lnf.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
